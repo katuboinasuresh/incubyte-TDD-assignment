@@ -1,3 +1,11 @@
+# how it works
+Firstly i started with the function to take different commands from the user and excute different commands to take direction and position to start for initial position and direction and make sure the position and direction values are increment corectly in coordinates
+# for testing
+I am using a unittest module,it's a python library it's a first level of software testing where the smallest testable parts of software are tested
+# mainly unittest frame work is supported by oop concepts
+here it take the maximum possible test cases to run on excutecommand function in test_moonlander.py fiel here i take few test cases to test the given commands are exute in function
+and also i mention differnt level of test cases to excute in unittest method
+# assignment description
 # incubyte-TDD-assignment
 As a scientist at ISRO controlling the latest lunar spacecraft Chandrayaan 3, your task is to develop a program that translates commands sent from Earth into instructions understood by the spacecraft. The spacecraft navigates through the galaxy using galactic coordinates, represented by x, y, z coordinates.
 Problem Statement
